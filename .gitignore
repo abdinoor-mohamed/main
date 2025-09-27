@@ -1,0 +1,4 @@
+x64/
+help_update_failures.log SSH-Diagnostic.log UpdateHelpFailures_20250926_020245.log wcncsvc-monitor.log
+*.tmp
+Thumbs.db
